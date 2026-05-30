@@ -1,6 +1,6 @@
 # CompTIA Cloud+ (CV0-004) Flashcard Study App
 
-A browser-based flashcard app designed for studying the CompTIA Cloud+ certification exam. 172 cards covering all 6 exam domains: Cloud Architecture, Deployment, Security, Operations, DevOps Fundamentals, and Troubleshooting.
+A browser-based flashcard app designed for studying the CompTIA Cloud+ certification exam. 167 cards covering all 6 exam domains: Cloud Architecture, Deployment, Security, Operations, DevOps Fundamentals, and Troubleshooting.
 
 ## How to use
 
